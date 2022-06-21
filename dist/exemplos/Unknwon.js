@@ -1,0 +1,11 @@
+"use strict";
+let anyOne;
+anyOne = 3;
+anyOne = '.2';
+let stringTest = 'Verificar';
+stringTest = anyOne;
+let unknownValor;
+unknownValor = 3;
+unknownValor = 'Opala';
+unknownValor = true;
+let stringTest2 = 'Agoras vai';
